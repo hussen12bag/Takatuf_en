@@ -143,8 +143,7 @@ class _SigninState extends State<Signin> {
                 const SizedBox(
                   height: 50,
                 ),
-                const SocialLogin(),
-                const SizedBox(
+                 const SizedBox(
                   height: 10,
                 ),
                 Row(

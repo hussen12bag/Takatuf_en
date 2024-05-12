@@ -276,8 +276,7 @@ class _SignupState extends State<Signup> {
                 SizedBox(
                   height: 20,
                 ),
-                SocialLogin(),
-                SizedBox(
+                 SizedBox(
                   height: 50,
                 ),
                 Row(
