@@ -95,11 +95,12 @@ class _Code_numState extends State<Code_num> {
                   enteredCode.clear();
                   print(enteredCode);
                   setState(() {});
-                  Navigator.of(context).pushReplacement(MaterialPageRoute(
+                  Navigator.of(context).pushAndRemoveUntil(MaterialPageRoute(
                     builder: (context) {
-                      return CustomBottomTabBar();
-                    },
-                  ));
+                     return CustomBottomTabBar();
+                      },
+                    ), (route) => false);
+                  
                 } else {
                   Get.closeAllSnackbars();
                   Get.snackbar('', '',
