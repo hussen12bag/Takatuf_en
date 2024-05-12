@@ -97,10 +97,9 @@ class _Code_numState extends State<Code_num> {
                   setState(() {});
                   Navigator.of(context).pushAndRemoveUntil(MaterialPageRoute(
                     builder: (context) {
-                     return CustomBottomTabBar();
-                      },
-                    ), (route) => false);
-                  
+                      return CustomBottomTabBar();
+                    },
+                  ), (route) => false);
                 } else {
                   Get.closeAllSnackbars();
                   Get.snackbar('', '',

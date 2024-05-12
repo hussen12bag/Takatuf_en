@@ -97,7 +97,7 @@ class Translation implements Translations {
             " يمكنكم التواصل معنا عبر البريد الإلكتروني على العنوان التالي:Takatuf@gmail.com",
         "75": "الهاتف",
         "76":
-            "ذا كان لديكم استفسارات تتطلب التحدث مع أحد ممثلينا، يمكنكم الاتصال بنا على الرقم: [0595392141]",
+            "ذا كان لديكم استفسارات تتطلب التحدث مع أحد ممثلينا، يمكنكم الاتصال بنا على الرقم: [0561620542]",
         "77": "نحن موجودون في: [السعودية]",
         "78": "مواعيد العمل:",
         "79":
@@ -216,7 +216,7 @@ class Translation implements Translations {
             "You can contact us via email at the following address: Takatuf@gmail.com,:",
         "75": "phone",
         "76":
-            "If you have inquiries that require speaking with one of our representatives, you can contact us at: [0595392141]",
+            "If you have inquiries that require speaking with one of our representatives, you can contact us at: [0561620542]",
         "77": "We are located in: [Saudi Arabia]",
         "78": "times of work:",
         "79":

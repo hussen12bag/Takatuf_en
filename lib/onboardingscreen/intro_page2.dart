@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:takatuf/auth/signup.dart';
 import 'package:takatuf/components/rec_button.dart';
 import 'package:takatuf/onboardingscreen/intro_page3.dart';
- 
 
 class intro_page2 extends StatefulWidget {
   const intro_page2({super.key});
@@ -44,7 +43,7 @@ class _intro_page2State extends State<intro_page2> {
                   Container(
                     alignment: Alignment.center,
                     child: Text(
-                        "ويبقى السؤال لماذا نتخلص من شيء له قيمة عند شخص اخر يوفر التطيسق حلولا اقتصادية وبيئية للاستفادة من ثروات مهدرة تخدم وطننا الغالي",
+                        "ويبقى السؤال لماذا نتخلص من شيء له قيمة عند شخص اخر يوفر التطبيق حلولا اقتصادية وبيئية للاستفادة من ثروات مهدرة تخدم وطننا الغالي",
                         style: TextStyle(
                             fontSize: 17,
                             fontFamily: 'font',
